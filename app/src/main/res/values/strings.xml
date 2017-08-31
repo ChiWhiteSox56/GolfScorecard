@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Card</string>
+    <string name="plusSign">+</string>
+    <string name="minusSign">-</string>
+    <string name="strokeCount">0</string>
+    <string name="hole">Hole 18</string>
+</resources>
