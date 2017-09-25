@@ -16,7 +16,7 @@
         android:layout_height="wrap_content" />
 
     <TextView
-        android:id="@+id/holeScore"
+        android:id="@+id/strokeCount"
         tools:text="@string/strokeCount"
         android:textSize="24sp"
         android:textAlignment="center"
